@@ -509,3 +509,6 @@ for stat in staty:
         found = True
 if found == False:
     print (' Neznamy region.')
+
+
+#lala
